@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1431374305 source:c:\users\mati\desktop\newtondll\loaderdll\main.cpp
+	<iostream>
+	"LibraryLoader.h"
+
+1431373419 c:\users\mati\desktop\newtondll\loaderdll\include\libraryloader.h
+	<windows.h>
+	<iostream>
+
